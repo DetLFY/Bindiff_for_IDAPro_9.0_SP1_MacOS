@@ -1,7 +1,7 @@
 # Binaries for Bindiff and Binexport of IDAPro on MacOS
 
 ## Introduction
-The binaries for bindiff and binexport only support `IDA Pro 9.0.241217` SP1 and later version
+The binaries for bindiff and binexport only support `IDA Pro 9.0.241217` and later version
 
 Build on MacOS 15.2
 
