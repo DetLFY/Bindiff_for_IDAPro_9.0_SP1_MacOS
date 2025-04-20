@@ -1,6 +1,14 @@
-# Bindiff_for_IDAPro_9.0_SP1_MacOS
-bindiff and binexport binary file only supported for IDA Pro 9.0.241217 SP1
+# Binaries for Bindiff and Binexport of IDAPro on MacOS
 
-build on MacOS 15.2
+## Introduction
+The binaries for bindiff and binexport only support `IDA Pro 9.0.241217` SP1 and later version
 
-source code from [binexport](https://github.com/cs2-analysis/binexport) and [bindiff](https://github.com/cs2-analysis/bindiff)
+Build on MacOS 15.2
+
+Source code from [binexport](https://github.com/cs2-analysis/binexport) and [bindiff](https://github.com/cs2-analysis/bindiff)
+
+## Support Version
+`IDA Pro 9.0.241217` and later
+
+## How to Install
+Put the binaries on `~/.idapro/plugins`
